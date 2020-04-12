@@ -20,18 +20,20 @@ export class ConfigService {
     this.detected_devices.next(devices);
   }
 
-  getAlgorithms(device_id: string): Algorithm[] {
-    const device: Device = this.detected_devices.find(
-      (d: Device) => d.device_id === device_id
-    );
-
+  static getAlgorithms(devices: Device[], device_id: string): Algorithm[] {
+    const device: Device = devices.find((d: Device) => {
+      return d.device_id === device_id;
+    });
     return device.algorithms;
   }
 
-  getDeviceAlgorithm(device_id: string, algorithm_id: string): Algorithm {
-    const algos = this.getAlgorithms(device_id);
+  static getDeviceAlgorithm(
+    devices: Device[],
+    device_id: string,
+    algorithm_id: string
+  ): Algorithm {
+    const algos = this.getAlgorithms(devices, device_id);
     return algos.find(a => {
-      console.log(a.algorithm_id[0].toString(), algorithm_id);
       return a.algorithm_id[0].toString() === algorithm_id;
     });
   }

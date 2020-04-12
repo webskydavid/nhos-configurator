@@ -13,7 +13,6 @@ export class DeviceListComponent implements OnInit {
 
   ngOnInit() {
     this.configService.getDevices().subscribe(data => {
-      console.log(data);
       this.devices = data;
     });
   }

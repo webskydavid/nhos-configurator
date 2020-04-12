@@ -12,7 +12,8 @@ export class AddConfigComponent {
   constructor(private configService: ConfigService) { }
 
   submit(): void{
-    this.configService.setDevices(this.config);
+    const data = JSON.parse(this.config);
+    this.configService.setDevices(data.detected_devices);
   }
 
 }
