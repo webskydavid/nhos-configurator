@@ -1,0 +1,3112 @@
+{
+  "detected_devices": [
+    {
+      "name": "GeForce GTX 1080 Ti",
+      "device_id": "NVD-11",
+      "enabled": true,
+      "active": false,
+      "selected_power_mode": "high",
+      "algorithms": [
+        {
+          "miner": "claymore",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "ewbf",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            45
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            49
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            43
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "phoenixminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            33
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            46
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GeForce GTX 1080 Ti",
+      "device_id": "NVD-12",
+      "enabled": true,
+      "active": false,
+      "selected_power_mode": "high",
+      "algorithms": [
+        {
+          "miner": "claymore",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "ewbf",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            45
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            49
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            43
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "phoenixminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            33
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            46
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GeForce GTX 1080 Ti",
+      "device_id": "NVD-13",
+      "enabled": true,
+      "active": false,
+      "selected_power_mode": "high",
+      "algorithms": [
+        {
+          "miner": "claymore",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "ewbf",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            45
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            49
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            43
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "phoenixminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            33
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            46
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GeForce GTX 1080 Ti",
+      "device_id": "NVD-14",
+      "enabled": true,
+      "active": false,
+      "selected_power_mode": "high",
+      "algorithms": [
+        {
+          "miner": "claymore",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "ewbf",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            36
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            45
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "gminer",
+          "algorithm_id": [
+            49
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            39
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            43
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            44
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "nbminer",
+          "algorithm_id": [
+            48
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "phoenixminer",
+          "algorithm_id": [
+            20
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            33
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        },
+        {
+          "miner": "t-rex",
+          "algorithm_id": [
+            46
+          ],
+          "enabled": true,
+          "power": [
+            {
+              "mode": "low",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "medium",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            },
+            {
+              "mode": "high",
+              "speed": {
+                "hash_rates": [],
+                "measured_type": "none",
+                "saved_at": "0001-01-01T00:00:00Z"
+              },
+              "power_use": 0,
+              "extra_parameters": [],
+              "tdp": "default",
+              "core_clocks": "default",
+              "memory_clocks": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
