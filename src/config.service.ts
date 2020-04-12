@@ -2,19 +2,22 @@ import { Injectable } from "@angular/core";
 import CONFIG from "./config.json";
 import { Device } from "./models/device";
 import { Algorithm } from "./models/algorithm";
+import { BehaviorSubject, Observable } from "rxjs";
 
 @Injectable({
   providedIn: "root"
 })
 export class ConfigService {
-  detected_devices: Device[];
+  private detected_devices = new BehaviorSubject<Device[]>([]);
 
-  constructor() {
-    this.detected_devices = CONFIG.detected_devices;
+  constructor() {}
+
+  getDevices(): Observable<Device[]> {
+    return this.detected_devices.asObservable();
   }
 
-  getDevices(): Device[] {
-    return this.detected_devices;
+  setDevices(devices: Device[]): void {
+    this.detected_devices.next(devices);
   }
 
   getAlgorithms(device_id: string): Algorithm[] {
