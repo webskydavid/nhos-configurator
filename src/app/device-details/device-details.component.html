@@ -1,11 +1,9 @@
 <h2>Algorithms</h2>
 <ul>
-	<li *ngFor="let algo of algorithms">
-		<a (click)="selectAlgorithm(miner,algo.algorithm_id[0])">{{algo.miner}} {{algo.algorithm_id[0]}}</a>
-		<label for=""><input type="checkbox">Enable</label>
-		<div *ngIf="selectedId===algo.algorithm_id[0]">
-			<app-algorithm-form [algorithm]="algo"></app-algorithm-form>
-		</div>
-
+	<li *ngFor="let algo of algorithms" [class.selected]="selectedId === algo.miner + algo.algorithm_id[0]">
+    {{selectedId}}
+		<input type="checkbox" [checked]="algo.enabled">
+    {{algo.miner}} {{algos[algo.algorithm_id[0]]}}
+		<app-algorithm-form (isSelectedEvent)="getSelected($event)" [algorithm]="algo"></app-algorithm-form>
 	</li>
 </ul>

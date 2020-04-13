@@ -5,7 +5,7 @@ import { ConfigService } from "../../config.service";
 @Component({
   selector: "app-device-list",
   templateUrl: "./device-list.component.html",
-  styleUrls: ["./device-list.component.css"]
+  styleUrls: ["./device-list.component.scss"]
 })
 export class DeviceListComponent implements OnInit {
   devices: Device[] = [];

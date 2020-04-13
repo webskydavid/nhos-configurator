@@ -1,0 +1,11 @@
+:host {
+  width: 100%;
+
+  & textarea {
+    width: 100%;
+    border: none;
+    border-radius: 6px;
+    background: #d3d3d3;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,14 @@
+nav {
+  margin-bottom: 40px;
+  & a {
+    border-radius: 6px;
+    padding: 10px 20px;
+    color: #292929;
+    background: #b1b1b1;
+    text-decoration: none;
+  }
+
+  & a:hover {
+    background: rgb(119, 119, 119);
+  }
+}

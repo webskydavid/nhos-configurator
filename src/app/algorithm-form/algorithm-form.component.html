@@ -1,3 +1,4 @@
-<pre>
+<button (click)="select()">Show</button>
+<pre *ngIf="isSelected">
   {{json()}}
 </pre>
