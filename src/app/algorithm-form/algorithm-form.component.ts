@@ -2,6 +2,8 @@ import { Component, Input, Output, EventEmitter, OnInit } from "@angular/core";
 import { Algorithm } from "../../models/algorithm";
 import { map } from "rxjs/operators";
 import { FormGroup, FormBuilder, FormArray } from "@angular/forms";
+import { ConfigService } from "../../config.service";
+import { ActivatedRoute } from "@angular/router";
 
 @Component({
   selector: "app-algorithm-form",
@@ -14,7 +16,11 @@ export class AlgorithmFormComponent implements OnInit {
   form: FormGroup;
   isSelected: boolean = false;
 
-  constructor(private fb: FormBuilder) {}
+  constructor(
+    private fb: FormBuilder,
+    private configService: ConfigService,
+    private route: ActivatedRoute
+  ) {}
 
   buildForm(power) {
     const b = power.map((val, i) => {
@@ -37,7 +43,7 @@ export class AlgorithmFormComponent implements OnInit {
 
   ngOnInit() {
     const power = this.algorithm.power;
-    const {miner, enabled} = this.algorithm;
+    const { miner, enabled } = this.algorithm;
 
     this.form = this.fb.group({
       enabled: enabled,
@@ -45,7 +51,13 @@ export class AlgorithmFormComponent implements OnInit {
       power: this.fb.array(this.buildForm(power))
     });
 
-    this.form.valueChanges.subscribe(console.log);
+    this.form.valueChanges.subscribe(config => {
+      this.route.paramMap.subscribe(params => {
+        const values = this.form.value;
+        console.log('values',values);
+        this.configService.save(params.get("device_id"), "algorithm", values);
+      });
+    });
   }
 
   get powerForm() {

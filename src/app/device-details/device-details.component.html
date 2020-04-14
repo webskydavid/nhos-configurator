@@ -8,3 +8,7 @@
 		<app-algorithm-form (isSelectedEvent)="getSelected($event)" [algorithm]="algo"></app-algorithm-form>
 	</li>
 </ul>
+<button (click)="getJson()">Json</button>
+<pre *ngIf="json">
+  {{json | json}}
+</pre>

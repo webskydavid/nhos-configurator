@@ -2,6 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { ConfigService } from "../../config.service";
 import { Algorithm } from "../../models/algorithm";
 import { ActivatedRoute } from "@angular/router";
+import CONFIG from './../../config.json'; // TODO: remove before commiting
 
 const ALGORITHMS = {
   0: "Scrypt",
@@ -44,10 +45,11 @@ const ALGORITHMS = {
   styleUrls: ["./device-details.component.scss"]
 })
 export class DeviceDetailsComponent implements OnInit {
+  json;
   selectedId;
   enabled;
   algos = ALGORITHMS;
-  algorithms: Algorithm[] = [];
+  algorithms: Algorithm[] = []; //CONFIG.detected_devices[0].algorithms;
 
   constructor(
     private configService: ConfigService,
@@ -55,7 +57,9 @@ export class DeviceDetailsComponent implements OnInit {
   ) {}
 
   ngOnInit() {
+    
     this.configService.getDevices().subscribe(data => {
+      this.json = data;
       this.route.paramMap.subscribe(params => {
         this.algorithms = ConfigService.getAlgorithms(
           data,

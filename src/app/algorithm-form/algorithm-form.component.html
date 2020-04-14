@@ -1,8 +1,8 @@
 <button (click)="select()">Show</button>
-<div *ngIf="isSelected" [formGroup]="form">
+<div [formGroup]="form">
   <div><span>Enabled:</span> <input  type="checkbox" formControlName="enabled"></div>
 	<div><span>Miner:</span> <input  type="text" formControlName="miner"></div>
-	<div formArrayName="power">
+	<div *ngIf="isSelected" formArrayName="power">
 		<div *ngFor="let power of powerForm.controls; let i=index" [formGroupName]="i">
       <hr>
       <h1>Power: {{i}}</h1>
@@ -24,4 +24,3 @@
 	</div>
   
 </div>
- <button (click)="submit()">Submit</button>
