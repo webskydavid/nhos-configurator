@@ -2,7 +2,8 @@
 <ul>
 	<li *ngFor="let algo of algorithms" [class.selected]="selectedId === algo.miner + algo.algorithm_id[0]">
     {{selectedId}}
-		<input type="checkbox" [checked]="algo.enabled">
+		<input type="checkbox" [(ngModel)]="enabled" name="enabled" [checked]="algo.enabled">
+    {{enabled}}
     {{algo.miner}} {{algos[algo.algorithm_id[0]]}}
 		<app-algorithm-form (isSelectedEvent)="getSelected($event)" [algorithm]="algo"></app-algorithm-form>
 	</li>

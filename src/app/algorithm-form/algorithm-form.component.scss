@@ -1,0 +1,16 @@
+:host {
+  & .power{
+    display: grid;
+    grid-template-columns: 1fr;
+
+    & div {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    &.speed span {
+        padding-left: 20px;
+      
+    }
+  }
+}

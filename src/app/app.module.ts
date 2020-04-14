@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { DeviceDetailsComponent } from './device-details/device-details.component';
@@ -10,7 +10,7 @@ import { AlgorithmFormComponent } from './algorithm-form/algorithm-form.componen
 import { AddConfigComponent } from './add-config/add-config.component';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, AppRoutingModule ],
+  imports:      [ BrowserModule, FormsModule, ReactiveFormsModule, AppRoutingModule ],
   declarations: [ AppComponent, DeviceDetailsComponent, DeviceListComponent, AlgorithmFormComponent, AddConfigComponent ],
   bootstrap:    [ AppComponent ]
 })

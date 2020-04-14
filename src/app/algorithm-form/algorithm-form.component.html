@@ -1,4 +1,27 @@
 <button (click)="select()">Show</button>
-<pre *ngIf="isSelected">
-  {{json()}}
-</pre>
+<div *ngIf="isSelected" [formGroup]="form">
+  <div><span>Enabled:</span> <input  type="checkbox" formControlName="enabled"></div>
+	<div><span>Miner:</span> <input  type="text" formControlName="miner"></div>
+	<div formArrayName="power">
+		<div *ngFor="let power of powerForm.controls; let i=index" [formGroupName]="i">
+      <hr>
+      <h1>Power: {{i}}</h1>
+      <div class="power" >
+        <div><span>Mode:</span> <input  type="text" formControlName="mode"></div>
+        <div><span>Power use: </span><input  type="text" formControlName="power_use"></div>
+        <div><span>Extra parameters:</span> <input  type="text" formControlName="extra_parameters"></div>
+        <div><span>TDP:</span> <input  type="text" formControlName="tdp"></div>
+        <div><span>Core clocks:</span> <input  type="text" formControlName="core_clocks"></div>
+        <div><span>Memory clocks:</span> <input  type="text" formControlName="memory_clocks"></div>
+      </div>
+      <h2>Speed</h2>
+      <div class="power speed" formGroupName="speed">
+          <div><span>Hash rates:</span> <input  type="text" formControlName="hash_rates"></div>
+          <div><span>Measured type: </span><input  type="text" formControlName="measured_type"></div>
+          <div><span>Saved at:</span> <input  type="text" formControlName="saved_at"></div>
+	    </div>
+    </div>
+	</div>
+  
+</div>
+ <button (click)="submit()">Submit</button>

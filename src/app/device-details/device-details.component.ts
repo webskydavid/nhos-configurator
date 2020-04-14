@@ -45,6 +45,7 @@ const ALGORITHMS = {
 })
 export class DeviceDetailsComponent implements OnInit {
   selectedId;
+  enabled;
   algos = ALGORITHMS;
   algorithms: Algorithm[] = [];
 
@@ -60,6 +61,7 @@ export class DeviceDetailsComponent implements OnInit {
           data,
           params.get("device_id")
         );
+      
       });
     });
   }

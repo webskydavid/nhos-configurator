@@ -8,15 +8,23 @@ import { BehaviorSubject, Observable } from "rxjs";
   providedIn: "root"
 })
 export class ConfigService {
+  private copy: Device[];
   private detected_devices = new BehaviorSubject<Device[]>([]);
 
   constructor() {}
+
+  getCopy(): Device[] {
+    return this.copy;
+  }
 
   getDevices(): Observable<Device[]> {
     return this.detected_devices.asObservable();
   }
 
   setDevices(devices: Device[]): void {
+    if(!this.copy){
+      this.copy = devices;
+    }
     this.detected_devices.next(devices);
   }
 
@@ -24,7 +32,7 @@ export class ConfigService {
     const device: Device = devices.find((d: Device) => {
       return d.device_id === device_id;
     });
-    return device.algorithms;
+    return device.algorithms || [];
   }
 
   static getDeviceAlgorithm(

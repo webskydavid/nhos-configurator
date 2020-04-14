@@ -14,6 +14,7 @@ export class AddConfigComponent {
   submit(): void{
     const data = JSON.parse(this.config);
     this.configService.setDevices(data.detected_devices);
+    this.config = '';
   }
 
 }
